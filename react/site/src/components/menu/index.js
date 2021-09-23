@@ -11,7 +11,7 @@ export default function Index() {
             <div className="black-box"></div>
             <div className="left-box-management">
                 <div> Gerenciamento </div>
-                <img src="/assets/images/chevron-down.svg" alt="" />
+                <img src="/assets/images/Vector.svg" alt="" />
             </div>
             <div className="left-box-aluno">
                 <div> Alunos </div>
